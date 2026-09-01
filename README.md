@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="./CloudBanner.jpeg" width="100%">
+</p>
 
-<!--
-**Lsa-23/Lsa-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Lina 👋🏻</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science Graduate | Software & Web Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 👩🏻‍💻 About Me
+
+I'm a Computer Science graduate with an interest in software development, web development, and databases. I enjoy learning new technologies, solving problems, and building practical projects that turn ideas into useful solutions.
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./Star.gif" width="180">
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Skills & Technologies
+
+- Java
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Android Development
+- Databases
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+## 🤝 Let's Connect
+
+- LinkedIn: Coming soon
