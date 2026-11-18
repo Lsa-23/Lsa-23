@@ -43,4 +43,6 @@ Coming soon...
 
 ## 🤝 Let's Connect
 
-- LinkedIn: Coming soon
+<p align="center">
+  <a href="https://github.com/Lsa-23">@Lsa-23</a>
+</p>
