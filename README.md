@@ -44,5 +44,7 @@ Coming soon...
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Lsa-23">@Lsa-23</a>
+
+  <a href="https://github.com/Lsa-23">GitHub</a> |
+  <a href="https://www.linkedin.com/in/linah-salem-630abb310/">LinkedIn</a>
 </p>
